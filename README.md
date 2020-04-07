@@ -8,7 +8,7 @@ This source code has a CC BY-NC-ND license.
 Please contact me if you need to use it for commercial purposes other than for non-profit purposes.  
 
 ## UML
-!(UML)[/image/main.jpeg]
+![UML](/image/main.jpeg)
 ## Introduction Developers
 박현상 (HyunSangPark) | Software Engineer & Front End Developer    
 Email: hyun.snag@parkhyunsang.com
