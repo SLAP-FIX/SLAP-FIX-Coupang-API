@@ -7,5 +7,5 @@ Python service that notifies the seller of payment.
 This source code has a CC BY-NC-ND license.  
 Please contact me if you need to use it for commercial purposes other than for non-profit purposes.  
 ## Introduction Developers
-박현상(Software Engineer & Front End Developer)  
+박현상|HyunSangPark (Software Engineer & Front End Developer)  
 Email: hyun.snag@parkhyunsang.com
