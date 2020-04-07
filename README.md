@@ -1,4 +1,4 @@
-# SLAP-FIX-Coupang-API
+# SLAP FIX Coupang API
 Python service that notifies the seller of payment.  
 ## License
 ![CC BY-NC-ND](/licence.png)  
