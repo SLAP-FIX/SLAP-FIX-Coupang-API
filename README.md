@@ -1,5 +1,5 @@
 # SLAP-FIX-Coupang-API
-판매자용 결제 알림을 해 주는 Python 서비스입니다.
+Python service that notifies the seller of payment.  
 ## License
 ![CC BY-NC-ND](/licence.png)  
 **본 소스코드는 CC BY-NC-ND 라이센스를 띄고 있습니다.  
